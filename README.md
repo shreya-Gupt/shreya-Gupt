@@ -1,5 +1,5 @@
 # Name - Shreya Gupta
 # Branch - Btech in CSE with specialization in Education Technology
-# First Year 
+# 2nd Year 
 # About Me
-I am first year btech student in VIT bhopal currently exploring programming and digital literacy. I have strong  interest in AI and Machince learning and data driven technologies and have learned basics of python programming language . I am focused on building a strong technical foundation through continous learning and practical projects .
+I have a keen interest in AI/ML ,emerging technologies, web development, and data-driven technologies. I’m focused on strengthening my technical foundation and gaining hands-on experience through projects and collaborations
